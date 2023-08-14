@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - ReleaseDate
 
+## [0.8.0] - 2023-05-31
+- Update all upstream dependencies
+
 ## [0.7.0] - 2023-01-21
 - Refactored split code to be more efficient and simpler
 - Accept ToSocketAddrs implementing types to make StatsBuilder API more flexible
